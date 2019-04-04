@@ -1,0 +1,52 @@
+newmtl Bodymat
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 512.000000
+d 1.000000
+Tr 0.000000
+map_Kd Zombie_3_Body_Diffuse.png 
+map_D Zombie_3_Body_Opacity.png 
+map_Ks Zombie_3_Body_Specular.png 
+adobe_map_Normal Zombie_3_Body_Normal.png 
+adobe_map_Shininess Zombie_3_Body_Gloss.png 
+
+newmtl Bottommat
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 512.000000
+d 1.000000
+Tr 0.000000
+map_Kd Zombie_3_Bottom_Diffuse.png 
+map_D Zombie_3_Bottom_Opacity.png 
+map_Ks Zombie_3_Bottom_Specular.png 
+adobe_map_Normal Zombie_3_Bottom_Normal.png 
+adobe_map_Shininess Zombie_3_Bottom_Gloss.png 
+
+newmtl Hairmat
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 512.000000
+d 1.000000
+Tr 0.000000
+map_Kd Zombie_3_Hair_Diffuse.png 
+map_D Zombie_3_Hair_Opacity.png 
+map_Ks Zombie_3_Hair_Specular.png 
+adobe_map_Normal Zombie_3_Hair_Normal.png 
+adobe_map_Shininess Zombie_3_Hair_Gloss.png 
+
+newmtl Topmat
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 512.000000
+d 1.000000
+Tr 0.000000
+map_Kd Zombie_3_Top_Diffuse.png 
+map_D Zombie_3_Top_Opacity.png 
+map_Ks Zombie_3_Top_Specular.png 
+adobe_map_Normal Zombie_3_Top_Normal.png 
+adobe_map_Shininess Zombie_3_Top_Gloss.png 
+
